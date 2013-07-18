@@ -18,7 +18,7 @@ Template Name: landingpage
 
 									<div class="under_contents">
 
-										<?php echo do_shortcode("[ic_add_posts]"); ?>
+										<?php echo do_shortcode("[ic_add_posts ids='1']"); ?>
 
 									</div> 
 
