@@ -54,15 +54,7 @@ body {
 
 // ---------- main header ---------- 
 
-#masthead {
-  padding: 200px 200px 2px;
-  text-align: center;
-    h1 { font-size: 4.8em;
-         font-family:  "adelle", georgia, serif; 
-         text-transform: uppercase; 
-         font-color: black; 
-    }
-}
+
 
 // ---------- navigation links ---------- 
 
@@ -82,7 +74,7 @@ body {
 }
 
 a {
-  &:link, &:visited, &:active, &:hover {
+  :link, :visited, :active, :hover {
     text-decoration: none; 
     font-size: 1.75em; 
     font-family:  "ff-tisa-web-pro", serif;
@@ -112,14 +104,14 @@ a {
   width: 680px; 
   h1 { font-family: "ff-tisa-web-pro"; 
        font-style: italic;
-       font-size: 40px;
+       font-size: 30px;
        font-color: #ff0000;
   }
 
   p { padding: 15px 0px; 
       color: #000;
       font-family: "ff-tisa-web-pro", serif}
-      font-size: 20px; 
+      font-size: 14px; 
 }
 
 
