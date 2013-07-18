@@ -18,7 +18,7 @@ Template Name: landingpage
 
 									<div class="under_contents">
 
-									
+									<?php the_content(); ?>
 
 									</div> 
 
