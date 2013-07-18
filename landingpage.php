@@ -18,8 +18,7 @@ Template Name: landingpage
 
 									<div class="under_contents">
 
-										<h1> About Me </h1> 
-										<p> random inf </p> 
+										<?php echo do_shortcode("[ic_add_posts]"); ?>
 
 									</div> 
 
