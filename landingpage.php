@@ -10,14 +10,13 @@ Template Name: landingpage
 
 				<div id="inner-content" class="wrap clearfix">
 
-					<div class="img_block"></div>
-						//comment
+					<div class="img_blockk"></div>
 
 							<div class= "text">
 
 								<div class="under">
 
-									<div class="under_contents">
+									<div class="under_content">
 
 									<?php if (have_posts()) : while (have_posts()) : the_post();?>
 									<?php the_content(); ?>
