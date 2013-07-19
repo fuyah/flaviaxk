@@ -17,7 +17,7 @@ Template Name: landingpage
 
 								<div class="under">
 
-									<div class="under_content">
+									<div class="under_contents">
 
 									<?php if (have_posts()) : while (have_posts()) : the_post();?>
 									<?php the_content(); ?>
