@@ -16,7 +16,7 @@ Template Name: blogpage
 
 								<div class="under">
 
-									<div class="under_contents">
+									<div class="under_content">
 
 									<?php echo do_shortcode("[ic_add_posts]"); ?>
 
