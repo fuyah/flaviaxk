@@ -11,6 +11,7 @@ Template Name: landingpage
 				<div id="inner-content" class="wrap clearfix">
 
 					<div class="img_blockk"></div>
+						// comment
 
 							<div class= "text">
 
