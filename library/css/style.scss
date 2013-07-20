@@ -83,7 +83,7 @@ body {
 a {
   &:link, &:visited, &:active, &:hover {
     text-decoration: none; 
-    font-size: 2.0em; 
+    font-size: 1.25em; 
     font-family:  "ff-tisa-web-pro", serif;
     color: #000; 
   }
@@ -111,14 +111,14 @@ a {
   width: 680px; 
   h1 { font-family: "ff-tisa-web-pro"; 
        font-style: italic;
-       font-size: 30px;
+       font-size: 25px;
        font-color: #ff0000;
   }
 
   p { padding: 15px 0px; 
       color: #000;
       font-family: "ff-tisa-web-pro", serif}
-      font-size: 22px; 
+      font-size: 18px; 
       line-height: 1.25em; 
 }
 
