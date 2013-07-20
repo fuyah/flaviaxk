@@ -23,7 +23,7 @@
 
 								<section class="entry-content clearfix">
 
-									<?php the_excerpt(); ?>
+									<?php the_content(); ?>
 
 								</section> <!-- end article section -->
 
