@@ -10,7 +10,11 @@ Template Name: landingpage
 
 				<div id="inner-content" class="wrap clearfix">
 
-					<div class="img_block"></div>
+					<div class="img_block">
+
+						
+
+						</div>
 
 							<div class= "text">
 
