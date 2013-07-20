@@ -55,7 +55,7 @@
 
 					<nav role="navigation">
 						<div id="masthead">
-							<h1 class="logo"><?php bloginfo('name'); ?></h1>
+							<h3 class="logo"><?php bloginfo('name'); ?></h3>
 						</div>
 						<?php bones_main_nav(); ?>
 					</nav>
